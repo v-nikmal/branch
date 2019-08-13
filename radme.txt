@@ -1,6 +1,0 @@
-start branch
-
-my branch has been started
-
-issue
-clone
